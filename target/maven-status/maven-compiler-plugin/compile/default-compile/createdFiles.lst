@@ -1,0 +1,4 @@
+com\train\BookServlet.class
+com\train\LogoutServlet.class
+com\train\RegisterServlet.class
+com\train\LoginServlet.class
